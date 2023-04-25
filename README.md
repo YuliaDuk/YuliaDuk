@@ -9,9 +9,7 @@
 
 ## Мои контакты ##
 <a href="https://t.me/YuliaD1002" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-
 <a href="mailto:yulia.duk10021992@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-
 <a href="https://wa.me/+79639688996" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 
 
